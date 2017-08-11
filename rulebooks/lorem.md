@@ -1,6 +1,6 @@
 ---
-tags:
-- test
+key-words:
+  sed: This is a test of the definition of sed
 ---
 
 # Lorem Ipsum
