@@ -5,8 +5,8 @@ tags:
 - tag2
 ---
 
-# This is a title
-## This is a smaller title
+# Test Rulebook
+## This is a rulebook test.
 
 This is content!
 
