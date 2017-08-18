@@ -5,7 +5,7 @@ glossary:
     - alias one
     definition: This is a test of the definition of sed
   - names:
-    - nisi arat
+    - nisi erat
     - other-alias
     definition: Def of nisi arat
 ---
