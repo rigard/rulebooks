@@ -1,5 +1,5 @@
 ---
-key-words:
+glossary:
   sed: 
     aliases:
       - "alias one"
