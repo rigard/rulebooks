@@ -1,13 +1,13 @@
 ---
 glossary:
-  sed: 
-    aliases:
-      - "alias one"
+  - names:
+    - sed
+    - alias one
     definition: This is a test of the definition of sed
-  "nisi arat": 
-    aliases:
-      - "other-alias"
-    definition: Definition of nisi arat
+  - names:
+    - nisi arat
+    - other-alias
+    definition: Def of nisi arat
 ---
 
 # Lorem Ipsum
