@@ -11,8 +11,8 @@ title: Settlers of Catan
 grain, lumber, wool, and brick resources)
 - 25 Development Cards (14 Knight/Soldier Cards,
 6 Progress Cards, 5 Victory Point Cards)
-- 4 “Building Costs” Cards
-- 2 Special Cards: “Longest Road” & “Largest Army”
+- 4 "Building Costs" Cards
+- 2 Special Cards: "Longest Road" & "Largest Army"
 - 16 cities (4 of each color shaped like churches)
 - 20 settlements (5 of each color shaped like houses)
 - 60 roads (15 of each color shaped like bars)
@@ -31,7 +31,7 @@ You can then construct the island of Catan using the
 ## Starting Set-up for Beginners
 You play the game The Settlers of Catan on a variable game
 board. For your first game, however, we suggest that you use
-the “Starting Set-up for Beginners.” (See Illus. A on page 3.)
+the "Starting Set-up for Beginners." (See Illus. A on page 3.)
 This set-up is well-balanced for all players.
 
 Before your first game you must remove the die-cut
@@ -66,7 +66,7 @@ _**Note**: Remove the red pieces from the game if you are playing a
 3-player game_
 
 Take your color’s Building Costs Card. (See Illustration B.)
-Place the Special Cards “Longest Road” and “Largest Army”
+Place the Special Cards "Longest Road" and "Largest Army"
 beside the game board along with the 2 dice.
 
 Sort the Resource Cards into 5 stacks and put them face up
@@ -104,7 +104,7 @@ who then continues the game with step 1.
 
 _**Tip**: For advanced players, we recommend combining the second and
 third steps. You can find more details in the Almanac under
-“Combined Trade/Build Phase.”_
+"Combined Trade/Build Phase."_
 
 ## The Turn in Detail
 
@@ -144,10 +144,10 @@ A new road must always connect to 1 of your existing roads, settlements, or citi
 
 Only 1 road can be built on any given path. 
 
-The first player to build a continuous road (not counting forks) of at least 5 road segments, receives the Special Card “Longest Road”. If another player succeeds in building a longer road than the one created by the current owner of the “Longest Road” card, he immediately takes the Special Card (and its 2 victory points). In this case, there is a 4 victory point swing!
+The first player to build a continuous road (not counting forks) of at least 5 road segments, receives the Special Card "Longest Road". If another player succeeds in building a longer road than the one created by the current owner of the "Longest Road" card, he immediately takes the Special Card (and its 2 victory points). In this case, there is a 4 victory point swing!
 
 ##### b) Settlement requires: Brick, Lumber, Wool, & Grain
-Take special note of the “Distance Rule”: you may only build a settlement at an intersection if all 3 of the adjacent intersections are vacant (i.e., none are occupied by any settlements or cities—even yours). 
+Take special note of the "Distance Rule": you may only build a settlement at an intersection if all 3 of the adjacent intersections are vacant (i.e., none are occupied by any settlements or cities—even yours). 
 
 Each of your settlements must connect to at least 1 of your own roads. 
 
@@ -170,8 +170,8 @@ When you buy a Development Card, draw the top card from the deck. There are 3 di
 Keep your Development Cards hidden (in your hand) until you use them, so your opponents can’t anticipate your play.
 
 ### 4. Special Cases
-##### a) Rolling a “7” and Activating the Robber
-If you roll a “7,” no one receives any resources. 
+##### a) Rolling a "7" and Activating the Robber
+If you roll a "7," no one receives any resources. 
 
 Instead, every player who has more than 7 Resource Cards must select half (rounded down) of his Resource Cards and return them to the bank. 
 
@@ -187,12 +187,12 @@ _**Important**: If the production number for the hex containing the robber is ro
 ##### b) Playing Development Cards
 At any time during your turn, you may play 1 Development Card (on the table). That card, however, may not be a card you bought during the same turn!
 
-###### Knight (aka “Soldier”) Cards (Red Frame)
-If you play a Knight Card, you must immediately move the robber. See “Rolling a ‘7’ and Activating the Robber” above and follow steps 1 and 2. 
+###### Knight (aka "Soldier") Cards (Red Frame)
+If you play a Knight Card, you must immediately move the robber. See "Rolling a ‘7’ and Activating the Robber" above and follow steps 1 and 2. 
 
 Once played, Knight Cards remain face up in front of you. 
 
-The first player to have 3 Knight Cards in front of himself receives the Special Card “Largest Army,” which is worth 2 victory points. If another player has more Knight Cards in front of him than the current holder of the Largest Army card, he immediately takes the Special Card and its 2 victory points.
+The first player to have 3 Knight Cards in front of himself receives the Special Card "Largest Army," which is worth 2 victory points. If another player has more Knight Cards in front of him than the current holder of the Largest Army card, he immediately takes the Special Card and its 2 victory points.
 
 ###### Progress Cards (Green Frame)
 If you play a Progress Card, follow its instructions. Then the card is removed from the game (i.e., tossed in the box).
