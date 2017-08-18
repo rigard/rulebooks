@@ -1,12 +1,14 @@
 ---
 glossary:
-  - names:
-    - sed
-    - alias one
+  - name: sed
+    matches:
+      - sed
+      - alias one
     definition: This is a test of the definition of sed
-  - names:
-    - nisi erat
-    - other-alias
+  - name: nisi erat
+    matches:
+      - nisi erat
+      - other alias
     definition: Def of nisi arat
 ---
 
