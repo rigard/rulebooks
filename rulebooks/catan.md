@@ -167,7 +167,7 @@ Each city is worth 2 victory points.
 ##### d) Buying Development Card requires: Ore, Wool, & Grain
 When you buy a Development Card, draw the top card from the deck. There are 3 different kinds of these cards: Knight; Progress; and Victory Point. Each has a different effect (see 4.b. below). Development Cards never go back into the supply, and you cannot buy Development Cards if the supply is empty. 
 
-Keep your Development Cards hidden (in your hand) until you use them, so your opponents can’t anticipate your play.
+Keep your Development Cards hidden (in your hand) until you use them, so your opponents can't anticipate your play.
 
 ### 4. Special Cases
 ##### a) Rolling a "7" and Activating the Robber
@@ -179,7 +179,7 @@ Then you must move the robber. Proceed as follows:
 
 1. You must move the robber immediately to the number
 token of any other terrain hex or to the desert hex.
-2. Then you steal 1 (random) Resource Card from an opponent who has a settlement or city adjacent to the target terrain hex. The player who is robbed holds his Resource Card hand face down. You then take 1 at random. If the target hex is adjacent to 2 or more players’ settlements or cities, you choose which one you want to rob.
+2. Then you steal 1 (random) Resource Card from an opponent who has a settlement or city adjacent to the target terrain hex. The player who is robbed holds his Resource Card hand face down. You then take 1 at random. If the target hex is adjacent to 2 or more players' settlements or cities, you choose which one you want to rob.
 
 _**Important**: If the production number for the hex containing the robber is rolled, the owners of adjacent settlements and cities do not receive resources. The robber prevents it._
 
@@ -188,7 +188,7 @@ _**Important**: If the production number for the hex containing the robber is ro
 At any time during your turn, you may play 1 Development Card (on the table). That card, however, may not be a card you bought during the same turn!
 
 ###### Knight (aka "Soldier") Cards (Red Frame)
-If you play a Knight Card, you must immediately move the robber. See "Rolling a ‘7’ and Activating the Robber" above and follow steps 1 and 2. 
+If you play a Knight Card, you must immediately move the robber. See "Rolling a '7' and Activating the Robber" above and follow steps 1 and 2. 
 
 Once played, Knight Cards remain face up in front of you. 
 
