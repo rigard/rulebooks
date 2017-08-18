@@ -1,4 +1,5 @@
 ---
+title: Lorem Ipsum
 glossary:
   - name: sed
     matches:
@@ -11,8 +12,6 @@ glossary:
       - other alias
     definition: Def of nisi arat
 ---
-
-# Lorem Ipsum
 
 ## Inceptos Risus Egestas
 Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus. Etiam porta sem malesuada magna mollis euismod. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
