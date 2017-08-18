@@ -1,6 +1,13 @@
 ---
 key-words:
-  sed: This is a test of the definition of sed
+  sed: 
+    aliases:
+      - "alias one"
+    definition: This is a test of the definition of sed
+  "nisi arat": 
+    aliases:
+      - "other-alias"
+    definition: Definition of nisi arat
 ---
 
 # Lorem Ipsum
