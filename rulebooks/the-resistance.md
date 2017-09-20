@@ -1,8 +1,6 @@
 ---
 title: The Resistance
 ---
-# Resistance Rules
-
 
 # Game Components
 * 11 Character Cards *(10 Characters and 1 Leader)*
@@ -126,7 +124,7 @@ Even if you are caught as a spy, you still have a valuable role to play in keepi
 **Resistance Strategy Tip:** Use all the information available
 Information in The Resistance comes at multiple levels. First are players' voting patterns, second are Mission results, and third are cues that you can discern from player interactions. Resistance Operatives must use all the information at hand to root out the Spy infestation.
 
-# Variants:
+# Variants
 
 The Resistance is a game highly dependent upon the group playing it, feel free to experiment with different variants. Two popular variants are:
 
