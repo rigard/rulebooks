@@ -1,6 +1,76 @@
 ---
 title: One Night Ultimate Werewolf
 source: https://www.fgbradleys.com/rules/rules2/OneNightUltimateWerewolf-rules.pdf
+glossary:
+  - name: Villager
+    definition: >
+      The Villager has no special abilities, but he is definitely not a werewolf. Players may often claim to be a Villager. *The Villager is on the village team.*
+
+  - name: Werewolf
+    matches: 
+      - werewolf
+      - werewolves
+    definition: >
+      At night, all Werewolves open their eyes and look for other werewolves. If no one else opens their eyes, the other Werewolves are in the center. *Werewolves are on the werewolf team.*
+
+  - name: Seer
+    definition: >
+      At night, the Seer may look either at one other player’s card or at two of the center cards, but does not move them. *The Seer is on the village team.*
+
+  - name: Robber
+    definition: >
+      At night, the Robber may choose to rob a card from another player and place his Robber card where the other card was. Then the Robber looks at his new card. The player who receives the Robber card is on the village team. *The Robber is on the team of the card he takes*, however, he does not do the action of his new role at night.
+
+  - name: Troublemaker
+    definition: >
+      At night, the Troublemaker may switch the cards of two *other* players without looking at those cards. The players who receive a different card are now the role (and team) of their new card, even though they don’t know what role that is until the end of the game. *The Troublemaker is on the village team.*
+
+  - name: Tanner
+    definition: >
+      The Tanner hates his job so much that he wants to die. The Tanner only wins if he dies. If the Tanner dies and no Werewolves die, the Werewolves do not win. If the Tanner dies and a Werewolf also dies, the village team wins too. The Tanner is considered a member of the village (but is not on their team), so if the Tanner dies when all werewolves are in the center, the village team loses. *The Tanner is not on the werewolf or the villager team.*
+
+  - name: Drunk
+    definition: >
+      The Drunk is so drunk that he doesn’t remember his role. When it comes time to wake up at night, he must exchange his Drunk card for any card in the center, but he does not look at it. The Drunk is now the new role in front of him (even though he doesn’t know what that new role is) and is on that team.
+
+  - name: Hunter
+    definition: >
+      If the Hunter dies, the player he is pointing at dies as well (regardless of how many votes his target receives). *The Hunter is on the village team.*
+
+  - name: Mason
+    definition: >
+      When using the Masons always put *both* Masons in the game.
+
+      The Mason wakes up at night and looks for the other Mason. If the Mason doesn’t see another Mason, it means the other Mason card is in the center. *Masons are on the village team.*
+
+  - name: Insomniac
+    definition: >
+      The Insomniac wakes up and looks at her card (to see if it has changed). Only use the Insomniac if the Robber and/or the Troublemaker are in the game. *The Insomniac is on the village team.*
+
+  - name: Minion
+    definition: >
+      Immediately following the Werewolf phase at night, the Minion wakes up and sees who the Werewolves are. During this phase, all Werewolves put their thumbs up so the Minion can see who they are. The Werewolves don’t know who the Minion is. If the Minion dies and no Werewolves die, the Werewolves (and the Minion) win. If no players are Werewolves, the Minion wins as long as one other player (not the Minion) dies. This role can be a very powerful ally for the werewolf team. *The Minion is on the werewolf team.*
+
+  - name: Doppelgänger
+    definition: >
+      The Doppelgänger is a fairly complicated card, because she takes on the role and team of whatever card she views. If you haven’t played with most of the other roles yet, skip this section for now... it will make a lot more sense then.
+
+        The Doppelgänger wakes up before the other roles.
+
+        At night, the Doppelgänger looks at (but does not switch) one other player’s card and does the following based on what she sees: 
+
+        *Villager, Tanner, Hunter:* She is now that role and does nothing else at night.
+
+        *Werewolf or Mason:* She wakes up with the other Werewolves or Masons when they are called. She is on the werewolf team if she views a Werewolf, and is on the village team if she views a Mason.
+
+        *Seer, Robber, Troublemaker, Drunk:* She immmediately does that role’s action (she does not wake up again with the original role when it is called).
+
+        *Minion:* At the end of the Doppelgänger phase, the Announcer tells the Doppelgänger to close her eyes unless she is now the Minion, and that werewolves should put their thumbs up. She is on the werewolf team.
+
+        *Insomniac:* After the Insomniac closes her eyes, the Doppelgänger-Insomniac is woken up to check her card to see if she is still the Doppelgänger.
+
+        If a player receives the Doppelgänger card during the night, she is the role the Doppelgänger originally viewed. The Doppelgänger’s script at night is a little different than most, as she has to be told to look for werewolves if she is the Minion, and is woken up later at night if the Insomniac is present. 
+
 ---
 
 In One Night Ultimate Werewolf, each player takes on the role of a Villager, a Werewolf, or a special character. It’s your job to figure out who the Werewolves are and to kill at least one of them in order to win... unless you’ve become a Werewolf yourself!
