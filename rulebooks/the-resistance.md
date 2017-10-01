@@ -1,5 +1,6 @@
 ---
 title: The Resistance
+source: http://www.heidelbaer.de/documents/TheResistance_Rules_English.pdf
 ---
 
 # Game Components
@@ -66,8 +67,8 @@ The game consists of several Rounds; each Round is composed of a Team building p
 ## Build the Team
 The team building phase consists of the Leader picking the players that he would like on the Mission Team followed by all the players voting to approve/reject the Mission Team.
 
-**Resistance Strategy Tip:** Get on the team
-As a resistance operative you need to get on the mission teams, letting even a single spy on the team is enough to make it fail. The leader gets to propose team members, but everyone gets a vote. If the leader's proposal doesn't get enough votes then the next player becomes the leader and gets to propose a new team.
+> **Resistance Strategy Tip:** Get on the team
+> As a resistance operative you need to get on the mission teams, letting even a single spy on the team is enough to make it fail. The leader gets to propose team members, but everyone gets a vote. If the leader's proposal doesn't get enough votes then the next player becomes the leader and gets to propose a new team.
 
 ### Mission Team Assignment
 After appropriate discussion, the Leader takes the required number of Team Tokens *(using the chart below)* and assigns each Team Token to any player including himself. Note a player may only be assigned one Team Token.
@@ -80,11 +81,11 @@ After appropriate discussion, the Leader takes the required number of Team Token
 | 4th Mission Team | 3 | 3 | 4 | 5 | 5 | 5  |
 | 5th Mission Team | 3 | 4 | 4 | 5 | 5 | 5  |
 
-**Spy Strategy Tip:** Act like the resistance
-The resistance players are out to get you - think fast and remember if you act and vote like a resistance player you will be harder to spot. All the resistance operatives will want to go on the missions, and so should you.
+> **Spy Strategy Tip:** Act like the resistance
+> The resistance players are out to get you - think fast and remember if you act and vote like a resistance player you will be harder to spot. All the resistance operatives will want to go on the missions, and so should you.
 
-**Resistance Strategy Tip:** Build trust in yourself
-A good resistance player not only determines who the spies are, but also builds trust in themselves. The best way to build trust is to explain to others what you are attempting to do and why. When interrogated the spies can stumble in their web of deceit and expose themselves.
+> **Resistance Strategy Tip:** Build trust in yourself
+> A good resistance player not only determines who the spies are, but also builds trust in themselves. The best way to build trust is to explain to others what you are attempting to do and why. When interrogated the spies can stumble in their web of deceit and expose themselves.
 
 ### Mission Team Vote
 After appropriate discussion, the Leader calls for a vote on the Team assignments. Each player, including the Leader, secretly selects one Vote Token. When all players have their selected Vote Token ready, the Leader asks for the Votes to be revealed. All players flip over their Vote Tokens so everyone can see how they Voted. The Mission Team is approved if the majority of Votes approved and fails if a majority rejected the assignments; a tied vote is also a rejection. 
@@ -95,11 +96,11 @@ If the Mission Team is rejected, the Leader passes in a clockwise manner and the
 
 **The Spies win the game if five Mission Teams are rejected in a single round *(5 consecutive failed Votes)*.**
 
-**Spy Strategy Tip:** Change your MO
-From game to game spies can get stuck in predictable patterns of behavior, such as never failing the first mission. If the resistance operatives can predict your behavior, they are more likely to uncover your identity.
+> **Spy Strategy Tip:** Change your MO
+> From game to game spies can get stuck in predictable patterns of behavior, such as never failing the first mission. If the resistance operatives can predict your behavior, they are more likely to uncover your identity.
 
-**Resistance Strategy Tip:** Trust no one
-If you don't trust everyone on the team then strongly consider rejecting the proposed Mission Team. Good resistance players will usually use three or more votes per round, carefully watching who is voting yes and asking them why. Remember the spies know each other and sometimes you can catch them approving a vote just because a spy was on the proposed team.
+> **Resistance Strategy Tip:** Trust no one
+> If you don't trust everyone on the team then strongly consider rejecting the proposed Mission Team. Good resistance players will usually use three or more votes per round, carefully watching who is voting yes and asking them why. Remember the spies know each other and sometimes you can catch them approving a vote just because a spy was on the proposed team.
 
 
 ## Conduct the Mission
@@ -118,11 +119,11 @@ After the Mission has been completed, advance the Round Marker to the next Missi
 # Game End
 The game ends immediately after either three successful or three failed Missions. The Resistance wins if three Missions are successful. The Spies win if three Missions fail. The Spies win the game if five Mission Teams are rejected in a single round (5 consecutive failed Votes).
 
-**Spy Strategy Tip:** Never give up
-Even if you are caught as a spy, you still have a valuable role to play in keeping the other spies safe. Use your status as a known spy to create confusion and discontent among the resistance operatives while protecting the remaining undercover spies.
+> **Spy Strategy Tip:** Never give up
+> Even if you are caught as a spy, you still have a valuable role to play in keeping the other spies safe. Use your status as a known spy to create confusion and discontent among the resistance operatives while protecting the remaining undercover spies.
 
-**Resistance Strategy Tip:** Use all the information available
-Information in The Resistance comes at multiple levels. First are players' voting patterns, second are Mission results, and third are cues that you can discern from player interactions. Resistance Operatives must use all the information at hand to root out the Spy infestation.
+> **Resistance Strategy Tip:** Use all the information available
+> Information in The Resistance comes at multiple levels. First are players' voting patterns, second are Mission results, and third are cues that you can discern from player interactions. Resistance Operatives must use all the information at hand to root out the Spy infestation.
 
 # Variants
 

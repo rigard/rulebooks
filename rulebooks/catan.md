@@ -1,5 +1,6 @@
 ---
 title: Settlers of Catan
+source: http://www.catan.com/en/download/?SoC_rv_Rules_091907.pdf
 glossary:
   - name: Building
     matches:
