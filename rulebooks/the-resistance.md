@@ -1,6 +1,13 @@
 ---
 title: The Resistance
 source: http://www.heidelbaer.de/documents/TheResistance_Rules_English.pdf
+information:
+  player-count: 5-10
+  play-time: 30 minutes
+tags:
+  - bluffing
+  - deduction
+  - party
 ---
 
 # Game Components

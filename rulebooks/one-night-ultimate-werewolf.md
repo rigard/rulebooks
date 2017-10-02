@@ -1,6 +1,14 @@
 ---
 title: One Night Ultimate Werewolf
 source: https://www.fgbradleys.com/rules/rules2/OneNightUltimateWerewolf-rules.pdf
+information:
+  player-count: 2-8
+  play-time: 15 minutes
+tags:
+  - bluffing
+  - deduction
+  - party
+  - card-game
 glossary:
   - name: Villager
     definition: |
