@@ -1,6 +1,8 @@
 ---
 title: Everyone is John
 source: https://imgur.com/a/l51P3#0
+tags:
+  - role-playing
 ---
 
 # Summary
