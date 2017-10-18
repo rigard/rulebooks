@@ -4,6 +4,9 @@ source: http://www.catan.com/en/download/?SoC_rv_Rules_091907.pdf
 information:
   player-count: 3-4
   play-time: 60-120 Minutes
+tags:
+  - negotiation
+  - strategy
 glossary:
   - name: Building
     matches:
