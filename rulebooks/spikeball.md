@@ -1,6 +1,10 @@
 ---
 title: Spikeball (Roundnet)
 source: https://spikeballroundnet.com/official-rules
+information:
+  player-count: 4
+tags:
+  - sport
 ---
 
 # Overview
