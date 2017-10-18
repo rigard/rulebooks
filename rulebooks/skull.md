@@ -1,6 +1,10 @@
 ---
 title: Skull
 source: http://www.skull-and-roses.com/pdf/Skull_rules_Us.pdf
+tags:
+  - bluffing
+  - bidding
+  - card-game
 ---
 
 # Contents
