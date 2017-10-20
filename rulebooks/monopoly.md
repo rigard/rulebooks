@@ -57,7 +57,9 @@ Each player selects a playing token and places it on "GO".
 
 One player is elected Banker. If there are more than five players, the Banker may choose to take on this role only.
 
-The Banker gives each player $1,500 divided as follows: * Two x $500
+The Banker gives each player $1,500 divided as follows:
+
+* Two x $500
 
 * Four x $100
 
