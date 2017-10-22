@@ -6,6 +6,7 @@ information:
   play-time: 30-60 mins
 tags:
   - card-drafting
+  - strategy
 ---
 
 # Summary
