@@ -1,3 +1,3 @@
 ### About Rulebook.io
 
-This section is coming soon! :)
+This section is coming soon! Perhaps a FAQ? :)
