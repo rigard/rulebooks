@@ -6,26 +6,8 @@ information:
   play-time: 60-120 Minutes
 tags:
   - negotiation
+  - trading
   - strategy
-glossary:
-  - name: Building
-    matches:
-      - building
-      - buildings
-    definition: >
-      You may build on your turn after you have rolled for resource production and finished trading. To build, you must turn in the specified combinations of Resource Cards (see the Building Costs Cards). Return the Resource Cards to the supply stacks. You can build as many items and buy as many cards as you desire - as long as you have enough resources to pay for them and they are still available in the supply. (See Settlements, Cities, Roads, and Development Cards.) Each player has a supply of 15 roads, 5 settlements, and 4 cities. If you build a city, return the settlement to your supply. Roads and cities, however, remain on the board until the end of the game once they are built.   
-
-  - name: City
-    matches:
-      - city
-      - cities
-    definition: >
-      You cannot build a city. You can only upgrade an existing settlement to a city. You pay the required resources, return the settlement to your supply, and replace the settlement with a city on the same intersection. Each city is worth 2 victory points. You receive double resource production (2 Resource Cards) from the adjacent terrain hexes whenever those numbers are rolled. When you build a city, the upgraded settlement piece becomes available again. You can build more settlements later.
-
-  - name: Desert
-    definition: >
-      The desert is the only terrain hex that does not produce resources. The robber is native to the desert, and he starts the game there. A settlement or a city built adjacent to the desert yields fewer resources than than those built next to one of the other terrain types.
-
 ---
 
 # Game Components
