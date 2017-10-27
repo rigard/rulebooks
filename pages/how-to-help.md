@@ -8,7 +8,7 @@ There are two ways to edit an existing rulebook.
 
 On any rulebook, click the **Edit** button.
 
-![](How%20to%20Help/edit.gif)
+![](/api/assets/edit.gif)
 
 This will open **GitHub**. GitHub is a site that developers use to host code. I opted to use GitHub to host all the rulebook data. [Read more about that here.](/about)
 
