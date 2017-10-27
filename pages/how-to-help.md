@@ -1,6 +1,3 @@
-# How to Help
-
-
 ## How to Help
 ### Add a New Rulebook
 ### Update an Existing Rulebook
