@@ -132,7 +132,7 @@ To report a bug or request a feature, you can either [create an Issue on GitHub]
 ## Help Keep the Lights On
 If you're enjoying Rulebook.io, consider making a small donation to help with server costs. 
 
-PayPal.me/camden
+[PayPal.me/camden](PayPal.me/camden/5)
 
 Thank you! :)
 
