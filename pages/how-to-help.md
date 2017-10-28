@@ -1,6 +1,4 @@
 # How to Help
-
-# How to Help
 ## Add a New Rulebook
 There are two ways to create a new rulebook. You can either do it yourself or [make a rulebook request](#make-a-request) if you're not comfortable using GitHub. 
 
