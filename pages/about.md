@@ -1,6 +1,6 @@
 # About Rulebook.io
 
-Rulebook.io is a passion project of mine.
+Rulebook.io is a passion project of mine. I built it to complement my love of board games, and to save mobile data when viewing rulebooks online (no more PDFs!).
 
 ## How does it work?
 
