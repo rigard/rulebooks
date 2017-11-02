@@ -45,7 +45,7 @@ Then, create a **pull request**! Creating a pull request means that I’ll get a
 ![](/api/assets/create-pull-request-for-edit.gif)
 
 ## Make a Request
-To request either a new rulebook or a rulebook change, [create a new GitHub issue here](github.com/camden/rulebooks). Be sure to tag the issue correctly.
+To request either a new rulebook or a rulebook change, [create a new GitHub issue here](https://github.com/camden/rulebooks). Be sure to tag the issue correctly.
 
 Hopefully, the request will be responded to shortly by myself or another contributor.
 
@@ -61,7 +61,10 @@ Example: `title: Settlers of Catan`
 #### Source
 The source of the rulebook. Usually a link to a PDF file.
 
-Example: `source: http://www.catan.com/en/download/?SoC_rv_Rules_091907.pdf`
+Example: 
+```
+source: http://www.catan.com/en/download/?SoC_rv_Rules_091907.pdf
+```
 
 #### Tags
 Any tags associated with your game. I usually like to find the game on BoardGameGeek and use some of their tags.
@@ -127,12 +130,12 @@ To preview your rulebook, copy the whole thing (in markdown!) and head over to t
 Spiffy!
 
 ## Report Bugs & Request Features
-To report a bug or request a feature, you can either [create an Issue on GitHub](github.com/camden/rulebooks) or tweet at @camdenbickel.
+To report a bug or request a feature, you can either [create an Issue on GitHub](https://github.com/camden/rulebooks) or tweet at @camdenbickel.
 
 ## Help Keep the Lights On
 If you're enjoying Rulebook.io, consider making a small donation to help with server costs. 
 
-[PayPal.me/camden](PayPal.me/camden/5)
+[PayPal.me/camden](https://paypal.me/camden/5)
 
 Thank you! :)
 
