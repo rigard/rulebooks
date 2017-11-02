@@ -130,7 +130,7 @@ To preview your rulebook, copy the whole thing (in markdown!) and head over to t
 Spiffy!
 
 ## Report Bugs & Request Features
-To report a bug or request a feature, you can either [create an Issue on GitHub](https://github.com/camden/rulebooks) or tweet at @camdenbickel.
+To report a bug or request a feature, you can either [create an Issue on GitHub](https://github.com/camden/rulebooks) or tweet at (@camdenbickel)[https://twitter.com/camdenbickel].
 
 ## Help Keep the Lights On
 If you're enjoying Rulebook.io, consider making a small donation to help with server costs. 
