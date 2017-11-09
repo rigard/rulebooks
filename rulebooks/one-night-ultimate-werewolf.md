@@ -107,9 +107,9 @@ For your first game, it’s recommended that you play a 3-5 player game to get a
 
 Include the following cards:
 
-| 3 Players                                              | 4 Players   | 5 Players    |
-|--------------------------------------------------------|-------------|--------------|
-| 2 Werewolves 1 Seer 1 Robber 1 Troublemaker 1 Villager | +1 Villager | +2 Villagers |
+| 3 Players                                                  | 4 Players   | 5 Players    |
+|------------------------------------------------------------|-------------|--------------|
+| 2 Werewolves, 1 Seer, 1 Robber, 1 Troublemaker, 1 Villager | +1 Villager | +2 Villagers |
 
 There should always be three more cards than the number of players. Shuffle the selected cards face down and deal one to each player. Put the remaining three cards and tokens that match all the cards being used in the middle of the table.
 
