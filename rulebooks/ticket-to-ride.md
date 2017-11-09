@@ -24,7 +24,7 @@ Each succeeding year, they met to celebrate the anniversary and pay tribute to F
 * Board map of North American train routes
 * 240 Colored Train Cars (45 each in Blue, Red, Green, Yellow and Black, plus some extra replacement cars in each color)
 * 144 Illustrated cards:
-    * 110 Train Car Cards (12 each of Box, Passenger, Tanker, Reefer, Freight, Hopeer, Coal, and Caboose cars, plus 14 Locomotives)
+    * 110 Train Car Cards (12 each of Box, Passenger, Tanker, Reefer, Freight, Hopper, Coal, and Caboose cars, plus 14 Locomotives)
     * 1 Summary Card
     * 30 Destination Ticket cards
     * 1 Longest Continuous Path Bonus card
