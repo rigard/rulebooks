@@ -68,36 +68,36 @@ Some buildings enhance these actions and privileges.
 
 ## Councillor
 
-**Action**
+### Action
 
 **Draw 2 cards** from the draw pile. Keep 1, discard 1.
 
-**Privilege**
+### Privilege
 
 **Draw 3 additional cards** (ie, draw 5 cards from the draw pile, keep 1, discard 4).
 
 
 ## Builder
 
-**Action**
+### Action
 
 **Build 1 building**. Place a building card from your hand in front of you, and pay (discard) the number of cards equal to the construction cost on the top corner of the card.
 
 Throughout the game, you may build as many Production buildings as you wish, but only one of each Violet building.
 
-**Privilege**
+### Privilege
 
 Reduce cost of building by 1 card , to a minimum of 0.
 
 ## Producer
 
-**Action**
+### Action
 
 **Produce 1 good**. Place a card from the draw pile face down on to one of your empty production buildings. This building is now full.
 
 If a player doesn’t have an empty production building, no goods are produced.
 
-**Privilege**
+### Privilege
 
 **Produce a second good** on another production building.
 
@@ -105,20 +105,20 @@ If a player doesn’t have an empty production building, no goods are produced.
 
 The trader flips the top tile of the **Trade House Tile** stack. After trading, this tile moved face down to the bottom of the stack.
 
-**Action**
+### Action
 
 **Trade 1 good**. Discard the goods card on a full production building and draw to your hand the number of cards indicated on the Trade House Tile corresponding to this good.
 
-**Privilege**
+### Privilege
 
 **Trade a second good**.
 
 ## Prospector
 
-**Action**
+### Action
 
 There is no action for this role.
 
-**Privilege**
+### Privilege
 
 **Draw 1 card to your hand**.
