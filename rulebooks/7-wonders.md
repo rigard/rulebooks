@@ -202,7 +202,7 @@ Some commercial structures from Age III grant victory points.
 
 Each Guild is worth a number of victory points depending on the configuration of the player’s city and/ or that of the 2 neighboring cities.
 
-# 2 player expert variant
+# 2 Player Expert Variant
 
 ## Setup
 Use the same cards as for 3 players. Each player is given a board, and then a third **Free City** board is placed beside them.
