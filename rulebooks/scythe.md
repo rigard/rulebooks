@@ -8,7 +8,7 @@ tags:
   - simultaneous-action-selection
 ---
 
-# SETUP
+# Setup
 
 Shuffle the yellow **Combat cards** and place them on their space on the board. If the deck runs out, shuffle the discards to form a new deck; no cards are drawn if both deck and discard pile are empty.
 
@@ -50,7 +50,7 @@ Place 1 **worker** on each of the territories connected to your home base by lan
 
 The player with the lowest number in the label on their player mat goes first; play proceeds clockwise.
 
-# GAMEPLAY
+# Gameplay
 
 On your turn, do the following in order:
 
@@ -70,9 +70,9 @@ The **costs** (red boxes) and **benefits** (green boxes) on your player mat are 
 
 After you’ve completed your turn, the next person in clockwise order takes their turn.
 
-## TOP-ROW ACTIONS
+## Top-Row Actions
 
-### MOVE
+### Move
 
 Do one of the following:
 
@@ -102,7 +102,7 @@ You may not use a Move action to move any unit from the board into any home base
 
 There is no limit to the number of same-faction units that can be in a territory.
 
-### BOLSTER
+### Bolster
 
 Pay the $1 cost and gain one of the following: ```
 
@@ -110,7 +110,7 @@ Pay the $1 cost and gain one of the following: ```
 
 * _**Combat Card(s):**_ **Draw 1 Combat card per combat card symbol.**
 
-### TRADE
+### Trade
 
 Pay the $1 cost and gain one of the following:
 
@@ -118,7 +118,7 @@ Pay the $1 cost and gain one of the following:
 
 * _**Popularity:**_ **Increase your popularity** on the Popularity track **by 1 per popularity symbol**.
 
-### PRODUCE
+### Produce
 
 Pay the cost (shown on _all_ exposed red rectangles before taking the action), choose up number of _different_ territories you control, and all workers on those territories may produce. Each worker may produce 1 resource token: place the token on the territory where it was produced.
 
@@ -136,7 +136,7 @@ If a worker produces another worker, after paying the cost, pick up the leftmost
 
 Any number of resource tokens or workers can be on a territory, and there is no limit to the number of resource tokens (if necessary, place a multiplier token next to resource tokens).
 
-## BOTTOM-ROW ACTIONS
+## Bottom-Row Actions
 
 Most of the bottom-row actions give you at least 1 coin when you pay to take that action. You may choose not to take the coins.
 
@@ -144,17 +144,17 @@ If you ‘complete’ a bottom-row action, you may continue to pay the cost of t
 
 Each of the bottom-row actions has a Recruit Ongoing Bonus (green circle). If it is exposed, it rewards a player when they or adjacent opponents take this action.
 
-### UPGRADE
+### Upgrade
 
 Pay the cost, take a technology cube from any green box on your player mat, and place it on any empty red box with bracketed borders. Red boxes with solid black borders are off limits for upgrades.
 
-### DEPLOY
+### Deploy
 
 Pay the cost, choose any mech on your faction mat, and place it on any territory you control with at least 1 worker on it (not on a lake, even if it has an ability that allows it to move onto lakes).
 
 From now on, **your characters and all mechs** (not your workers) **gain the ability** on the faction mat that was under the mech miniature.
 
-### BUILD
+### Build
 
 Pay the cost, take any structure from your player mat, and place it on any territory you control with at least 1 worker on it.
 
@@ -188,7 +188,7 @@ Whenever you take the Trade action, also gain 1 power.
 
 At the end of the game, players gains coins for achieving the goals shown on the structure bonus tile that was randomly selected during setup. You gain the bonus even if you don’t control the territories the structures are on.
 
-### ENLIST
+### Enlist
 
 Pay the cost, take a recruit token from any section on your player mat, place it on any open **Recruit One-Time Bonus** space on your faction mat, and immediately gain the depicted bonus. The token remains there permanently.
 
@@ -204,9 +204,9 @@ You must announce when you take bottom-row actions so adjacent players know to c
 
 **In a 2 player game,** whenever your opponent takes an action that would give you a Recruit Ongoing Bonus, you only gain it once.
 
-# MECH ABILITIES
+# Mech Abilities
 
-## RUSVIET
+## Rusviet
 
 **Riverwalk:** Your character and mechs can move across rivers onto farms and villages.
 
@@ -218,7 +218,7 @@ You must announce when you take bottom-row actions so adjacent players know to c
 
 Moving from 1 tunnel to another still counts as 1 move, so with this ability you could move an additional territory before or after moving through a tunnel. Your mechs can pick up or drop off resources and workers in the middle of a Move action when they have this ability.
 
-## CRIMEA
+## Crimea
 
 **Riverwalk:** Your character and mechs can move across rivers onto farms and tundra.
 
@@ -228,7 +228,7 @@ Moving from 1 tunnel to another still counts as 1 move, so with this ability you
 
 **Speed:** Your character and mechs may move 1 additional territory per Move action _(see Rusviet listing for details)_.
 
-## NORDIC
+## Nordic
 
 **Riverwalk:** Your character and mechs can move across rivers onto forests and mountains.
 
@@ -238,7 +238,7 @@ Moving from 1 tunnel to another still counts as 1 move, so with this ability you
 
 **Speed:** Your character and mechs may move 1 additional territory per Move action _(see Rusviet listing for details)._ 
 
-## POLANIA
+## Polania
 
 **Riverwalk:** Your character and mechs can move across rivers onto villages and mountains.
 
@@ -248,7 +248,7 @@ Moving from 1 tunnel to another still counts as 1 move, so with this ability you
 
 **Speed:** Your character and mechs may move 1 additional territory per Move action _(see Rusviet listing for details)._
 
-## SAXONY
+## Saxony
 
 **Riverwalk:** Your character and mechs can move across rivers onto forests and mountains.
 
@@ -258,29 +258,29 @@ Moving from 1 tunnel to another still counts as 1 move, so with this ability you
 
 **Speed:** Your character and mechs may move 1 additional territory per Move action _(see Rusviet listing for details)._
 
-# FACTION ABILITIES
+# Faction Abilities
 
-## RUSVIET
+## Rusviet
 
 Relentless: You may choose the same section on your player mat as the previous turn(s). This also applies to a Factory card if you have one.
 
-## CRIMEA
+## Crimea
 
 Coercion: Once per turn, you may spend 1 Combat card as if it were any 1 resource token. Combat cards are still worth nothing at the end of the game.
 
-## NORDIC
+## Nordic
 
 Swim: Your workers (only) may move across rivers.
 
-## POLANIA
+## Polania
 
 Meander: Pick up to 2 options per Encounter card. The benefit from the 1st selected option may be used to pay the cost for the 2nd selected option. Only 1 Encounter card is drawn.
 
-## SAXONY
+## Saxony
 
 Dominate: There is no limit to the number of stars you can place from completing objectives or winning combat. You may complete both of your Objective cards (you don’t discard the second card after achieving the first), and you are not limited to 2 combat victory stars.
 
-# COMBAT
+# Combat
 
 If, at the end of your Move action (after all units have moved but before you take a bottom-row action), if your character and/ or mechs share a territory with an opponent’s character and/or mechs, **combat** occurs.
 
@@ -318,7 +318,7 @@ All resources those units were carrying remain on the territory and are now unde
 
 Each player (with the exception of the Saxon player) may gain a maximum of 2 stars for winning combat; but they may engage in future combats after they’ve achieved those stars. If your 6th star is placed but you still have a combat remaining on your turn, the game ends and any units you moved to initiate that combat move back to the territory from whence they came.
 
-# ENCOUNTERS
+# Encounters
 
 **When you move your character into a territory with an Encounter token,** their movement ends and they cannot move again this turn. After resolving all combats (but before you take a bottomrow action), if your character is still there, discard the token and resolve the encounter.
 
@@ -328,7 +328,7 @@ Any resources, structures, mechs, or workers you gain go on the same territory a
 
 If a card instructs you to gain something or perform an action, do not pay any additional costs or gain additional benefits beyond those on the card, or trigger any Recruit Ongoing Bonuses.
 
-# THE FACTORY
+# The Factory
 
 When your Move action is completely finished, after combat if necessary, if your character is on the Factory for the first time this game, look through the Factory cards on the board and choose one.
 
@@ -340,7 +340,7 @@ All other normal rules for movement apply. If you have a Mine, you may move thro
 
 You may have 1 Factory card at most; your selection is permanent.
 
-# OBJECTIVES
+# Objectives
 
 You may reveal a completed Objective card at any time during your own turn. If you do, place 1 star token on the objective space of the Triumph track and discard the card _along with your other objective_ to the bottom of the Objective deck.
 
@@ -348,19 +348,19 @@ Each player (with the exception of the Saxon player) may gain a maximum of 1 sta
 
 You may wait to reveal your completed objective, but you must meet its requirements at the time you reveal it.
 
-# ALLIANCES AND BRIBES
+# Alliances and Bribes
 
 Players may make informal agreements. The only tangible objects that may be exchanged are coins (in tournament play, coins may not be exchanged for deals or alliances).
 
 You can’t negotiate your way out of a combat that has already begun. Agreements made between players are not enforceable.
 
-# PLACING STARS
+# Placing Stars
 
 When you achieve one of the goals on the Triumph track, you must place a star on the appropriate space. You cannot lose a star after you’ve placed it.
 
 Normally, each player may complete each of these goals one time. Having a star on a goal does not prevent other players from having a star on that goal. You can’t place more than 6 stars.
 
-# GAME END AND SCORING
+# Game End and Scoring
 
 **The game _immediately_ ends when a player places their 6th star token.**
 
