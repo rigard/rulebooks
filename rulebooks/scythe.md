@@ -54,11 +54,11 @@ The player with the lowest number in the label on their player mat goes first; p
 
 On your turn, do the following in order:
 
-1. Place your action token** on a different section of your player mat than where it was on your previous turn.
+1. **Place your action token** on a different section of your player mat than where it was on your previous turn.
 
-2. Take the top-row action** on that section **(optional)**.
+2. **Take the top-row action** on that section **(optional)**.
 
-3. Take the bottom-row action** on that section **(optional)**.
+3. **Take the bottom-row action** on that section **(optional)**.
 
 So you may take a single action, both actions (from top to bottom), or neither action (still move your action token).
 
