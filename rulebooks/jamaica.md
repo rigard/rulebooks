@@ -2,10 +2,10 @@
 title: Jamaica
 source: https://www.orderofgamers.com/downloads/Jamaica_v1.pdf
 tags:
-  - card-game
-  - card-drafting
+  - racing
+  - dice-rolling
   - hand-management
-  - set-collection
+  - simultaneous-action-selection
 ---
 
 # Setup
