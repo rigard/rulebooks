@@ -104,7 +104,7 @@ There is no limit to the number of same-faction units that can be in a territory
 
 ### Bolster
 
-Pay the $1 cost and gain one of the following: ```
+Pay the $1 cost and gain one of the following:
 
 * _**Power:**_ **Increase your power on the Power track by 1 per power symbol.**
 
