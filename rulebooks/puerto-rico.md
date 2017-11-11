@@ -7,7 +7,7 @@ tags:
   - variable-phase-order
 ---
 
-# SETUP
+# Setup
 
 Place all the **buildings** on their spaces and all the **doubloons** on the **bank** on the game board.
 
@@ -91,7 +91,7 @@ Finally, the settler player puts the untaken plantation tiles face-up on a disca
 
 Plantations may be moved on island spaces without penalty, but may not be removed.
 
-## MAYOR
+## Mayor
 
 ### Action
 
@@ -107,7 +107,7 @@ When at least one colonist is on a tile, it is considered _occupied_ and may pro
 
 Finally the Mayor places new colonists on the ship; one for each empty circle on the _buildings_ on the player boards of all players (minimum is equal to the number of players).
 
-## BUILDER
+## Builder
 
 ### Action
 
@@ -121,7 +121,7 @@ Each _occupied_ quarry reduces the cost for building by 1 doubloon, subject to t
 
 **Building costs 1 doubloon less to build.**
 
-## CRAFTSMAN
+## Craftsman
 
 ### Action
 
@@ -131,7 +131,7 @@ Each _occupied_ quarry reduces the cost for building by 1 doubloon, subject to t
 
 **Take 1 additional good** of those you can produce (only if you have produced goods).
 
-## TRADER
+## Trader
 
 ### Action
 
@@ -143,7 +143,7 @@ Each _occupied_ quarry reduces the cost for building by 1 doubloon, subject to t
 
 Finally the Trader empties the trading house _if it is full_ by placing the goods back into the supply piles.
 
-## CAPTAIN
+## Captain
 
 ### Action
 
@@ -163,7 +163,7 @@ Finally, when no more goods can be loaded, each player may store one excess good
 
 The Captain then unloads all full ships by placing the goods back into the supply piles.
 
-## PROSPECTOR
+## Prospector
 
 ### Action
 
@@ -173,7 +173,7 @@ There is no action. The other players do not do anything.
 
 **Receive 1 doubloon from the bank.**
 
-# BUILDINGS
+# Buildings
 
 Each player may build each building only once.
 
@@ -181,7 +181,7 @@ When at least one colonist is in the building, it is considered _occupied_.
 
 Buildings may be moved on city spaces without penalty, but may not be removed.
 
-## PRODUCTION BUILDINGS
+## Production Buildings
 
 Production buildings are required, together with the plantations, to produce goods.
 
@@ -191,7 +191,7 @@ The player must also have sufficient _occupied_ plantations of the appropriate g
 
 **Corn does not require a production building** and comes directly from the plantation.
 
-## VIOLET BUILDINGS, SMALL
+## Violet Buildings, Small
 
 A player is not required to use the special function of an occupied violet building, large or small, if he does not wish to.
 
@@ -251,7 +251,7 @@ You may take the colonist from the ship if there are none in the supply.
 
 You must load goods on a cargo ship whenever you can on your turn as normal, except when choosing to load on this ‘imaginary’ ship. The ship has an 11 barrel capacity.
 
-## VIOLET BUILDINGS, LARGE
+## Violet Buildings, Large
 
 Large buildings require two adjacent city spaces to be built, but count as one building.
 
@@ -277,9 +277,9 @@ Additional VP is earned at game end if the large building is occupied.
 
 1 VP for each violet building (occupied or unoccupied) in your city, including the city hall.
 
-# GAME ROUND
+# Game Round
 
-## 1) CHOOSE A ROLE
+## 1) Choose a Role
 
 The player with the **Governor** card starts a round by taking a role card.
 
@@ -295,13 +295,13 @@ After all players have performed the action, the next player to the left chooses
 
 - all actions are _optional_ (except the _Captain_ )
 
-## 2) RESET THE ROLES
+## 2) Reset the Roles
 
 Place one doubloon on each of the three role cards not chosen this round and then return all role cards.
 
 The player to the left of the Governor takes the Governor card and becomes Governor for the next round.
 
-# GAME END
+# Game End
 
 The game ends _at the end_ of the round when one of the following happens:
 
