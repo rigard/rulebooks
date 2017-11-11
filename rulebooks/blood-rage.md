@@ -8,7 +8,7 @@ tags:
   - hand-management
 ---
 
-# SETUP
+# Setup
 
 Each player chooses a **clan** and places the clan sheet in front of them. Take your clan’s **leader figure** and 8 **warrior figures** , and attach the plastic bases of your clan’s color to them. Take your matching **ship figure**. Keep your figures near your clan sheet in an area called your **reserve**.
 
@@ -60,7 +60,7 @@ Each of the provinces has 3 to 5 **villages**. Each village can hold a single pl
 
 There are 4 **fjords** between pairs of outer provinces. Each _supports_ the 2 provinces that it is connected to. Any effect that affects a province also affects its supporting fjord. There is no limit to the number of ship figures that can occupy each fjord.
 
-# GAME TURN
+# Game Turn
 
 The game is played over a series of 3 **Ages** , each of which is divided into 6 **phases** , played in order.
 
@@ -68,7 +68,7 @@ Move the Saga token on the Age track as each phase is completed.
 
 Once the last phase of an Age is done, the Saga token is moved to the first phase of the next Age, until it reaches the end of the Third Age and the game ends.
 
-## 1. GOD’S GIFTS
+## 1. God's Gifts
 
 On the Second and Third Age, if a player has a leftover card in their hand from a previous age, they must first place this card face down on their clan sheet, on top of their clan symbol.
 
@@ -84,7 +84,7 @@ All players should now have 6 cards in their hand, plus any card they might have
 
 **2 player game:** Players select 2 cards to keep (instead of 1) and pass the rest to their opponent. This is done 2 more times until each player has placed 6 cards on their clan sheet. The remaining 2 cards are discarded.
 
-## 2. ACTION
+## 2. Action
 
 The player with the first player token goes first, with play proceeding in clockwise order. **On your turn, you must choose a single action to perform.**
 
@@ -202,13 +202,13 @@ If the pillager does not win the battle, the province is not pillaged and nobody
 
 Finally, **the winner of the battle** , whether he’s the pillaging player or not, **gains Glory equal to their current Axes stat**.
 
-## 3. DISCARD
+## 3. Discard
 
 All players must **discard** any cards that may still remain in their hands. They can only keep a single card to use on the next age (if they have any).
 
 On the Third Age players should discard all cards, completely emptying their hands.
 
-## 4. QUEST
+## 4. Quest
 
 Each player reveals all **quests** they have committed to. If you have met a quest’s demands, you gain the amount of Glory indicated on the card, and may also raise any 1 of your clan stats 1 step.
 
@@ -218,7 +218,7 @@ Most quests involve having the most STR in a given province. Add together the ST
 
 If your total is greater, you fulfill the quest. If you tie with an enemy, you fail the quest.
 
-## 5. RAGNARÖK
+## 5. Ragnarök
 
 Take the token that’s on the current **Ragnarök** slot and place it on its corresponding province, with the _destroyed_ side facing up. That province is destroyed forever and is out of the game.
 
@@ -228,11 +228,11 @@ For each of your figures (including monsters) destroyed in Ragnarök, you gain 2
 
 Next, place the Doom token on the province indicated by the next age’s Ragnarök token.
 
-## 6. RELEASE VALHALLA
+## 6. Release Valhalla
 
 All figures in **Valhalla** are returned to their respective owners. Move all figures on the Valhalla sheet belonging to your clan back to your reserve. Any figures on the board remain there.
 
-## END OF AN AGE
+## End of an Age
 
 Flip all Pillage tokens on the board back to their reward side. These tokens stay on the same province throughout the game.
 
@@ -240,7 +240,7 @@ Pass the first player token to the player to the left.
 
 Move the Saga token down to the first phase of the next age on the Age track.
 
-# END OF THE GAME
+# End of the Game
 
 Once the Release Valhalla phase of the Third Age is completed, the world has come to an end, and so has the game.
 
