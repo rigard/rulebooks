@@ -77,7 +77,7 @@ Place by the game board the **victory point chips** , the **role cards** , 3 **c
 
 # The Roles
 
-## SETTLER
+## Settler
 
 ### Action
 
