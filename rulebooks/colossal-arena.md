@@ -13,7 +13,7 @@ information:
   designer: Reiner Knizia
 ---
 
-# INTRODUCTION
+# Introduction
 
 Welcome to the Colossal Arena! Today, for your amusement, eight fierce creatures will battle each other in a five round tournament. You have come to the arena to
 wager your hard-earned gold on these gladiators in the hopes of winning a fortune. Bet early and bet often to back your favorite creature, because wagers are worth
@@ -37,7 +37,7 @@ ranges from 0-10, like combat cards, and they momentarily void the special power
 * Bet Tokens: These 25 round plastic tokens (5 in each of 5 colors) are used to place bets on the creatures fighting in the tournament. The earlier in the game a bet is placed,
 the more it is worth if the creature it’s placed on makes it through the tournament.
 
-# SETUP
+# Setup
 
 1. Each player is assigned a color and takes the 5 bet tokens of that color.
 2. Select 8 of the 12 creature cards to be used this game (either by player consensus or randomly). Set the other 4 creature cards and their corresponding combat cards aside—they will not be used in this game.
@@ -45,7 +45,7 @@ the more it is worth if the creature it’s placed on makes it through the tourn
 4. Shuffle the remaining blue-backed combat, spectator, and referee cards together to form the draw deck. Deal 8 cards face down to each player to form their hands. A player may look at his hand. Place the rest of the deck face down off to one side of the playing area.
 5. Randomly choose one player to be the starting player.
 
-# GAME SUMMARY
+# Game Summary
 
 ## Rounds of Play
 
@@ -57,7 +57,7 @@ During each player’s turn in a round, combat cards are played below their corr
 
 ## Checking for Elimination
 
-If, at the end of a player's turn, all remaining creatures have a combat or spectator card played on them in the current combat row, and if there is a creature with a single lowest combat value in that combat row, then this creature is eliminated from the tournament. When a creature is eliminated, turn the eliminated creature card face down. Then begin a new combat row below the previous combat row and start a new round. At the end of the game, you will usually have a total of 6 rows of cards (the row of creature cards, and one row of combat cards for each of the 5 rounds of play below that. ~~See the end of these rules for an example of what the playing area might look like at the end of a game.)~~
+If, at the end of a player's turn, all remaining creatures have a combat or spectator card played on them in the current combat row, and if there is a creature with a single lowest combat value in that combat row, then this creature is eliminated from the tournament. When a creature is eliminated, turn the eliminated creature card face down. Then begin a new combat row below the previous combat row and start a new round. At the end of the game, you will usually have a total of 6 rows of cards (the row of creature cards, and one row of combat cards for each of the 5 rounds of play below that).
 
 ## Bet Values
 
@@ -77,7 +77,7 @@ In addition, each player has the option of making one secret bet in the first ro
 
 A creature’s backer is the player who has placed the most valuable bets (as measured by bet value) on that creature. For instance, if a player has placed a bet on the Wyrm in both round 1 and round 2, then the total value of his bets is 7 gold (4 for the bet in round 1 plus 3 for the bet in round 2). Unless another player has a total bet value of 7 gold or more on the Wyrm, that player is the Wyrm’s backer, and can use the Wyrm’s special power each time he plays a combat card on the Wyrm (as explained later). If two or more players are tied for the highest bet value on a creature, neither is that creature’s backer. Secret bets don’t count towards a player’s total bet value on a creature unless they’ve been revealed. Placing and revealing secret bets is explained later in these rules.
 
-# PLAYING THE GAME
+# Playing the Game
 
 Each player’s turn consists of four phases:
 
@@ -92,19 +92,19 @@ Important: If you place a secret bet in phase 1, then you skip phase 2.
 
 In this phase, you may:
 
-* Place a Normal Bet: Play one of your bet tokens above a creature of your choice in the current combat row, as long as there isn’t already a bet there.
+* **Place a Normal Bet**: Play one of your bet tokens above a creature of your choice in the current combat row, as long as there isn’t already a bet there.
 
 OR 
 
-* Place a Secret Bet: Play one of your bet tokens on a face down combat card from your hand in front of you to secretly bet on the corresponding creature. You may only place a secret bet during the first round of the game. Once a creature has been eliminated, no further secret bets may be made.
+* **Place a Secret Bet**: Play one of your bet tokens on a face down combat card from your hand in front of you to secretly bet on the corresponding creature. You may only place a secret bet during the first round of the game. Once a creature has been eliminated, no further secret bets may be made.
 
 OR
 
-* Reveal a Secret Bet: Reveal which creature you wagered on with your secret bet, possibly allowing you to immediately become that creature’s backer.
+* **Reveal a Secret Bet**: Reveal which creature you wagered on with your secret bet, possibly allowing you to immediately become that creature’s backer.
 
 OR
 
-* Pass: Do nothing this phase.
+* **Pass**: Do nothing this phase.
 
 ### Placing a Normal Bet
 
@@ -115,7 +115,7 @@ To place a normal bet, place 1 of your 5 bet tokens in your chosen creature’s 
 To place a secret bet, choose a combat card from your hand that corresponds to the creature you wish to bet on. Place it face down in front of you, then place one of your bet tokens on top of it. For example, if you have the Magus’s combat 3 card in your hand, you may place it face down in front of you with one of your bet tokens on top of it to make a secret bet on the Magus. The combat card is used only to indicate which creature you are placing your secret bet on and it is discarded if you later reveal your secret bet. If a secret bet pays out at the end of the game, it is worth 5 gold. Keep in mind the following restrictions regarding secret bets:
 
 * You may only make 1 secret bet per game.
-* You may only make a secret bet during the first round of the game. After a creature has been eliminated, no further secret bets may be made.
+* You may only make a secret bet during the first round of the game. **After a creature has been eliminated, no further secret bets may be made.**
 * You do not play a card on the turn in which you make a secret bet. (That is, you skip phase 2 of your turn.)
 
 ### Revealing a Secret Bet
@@ -126,19 +126,19 @@ Instead of placing a bet during your turn, you can choose to reveal your secret 
 
 In this phase, you may:
 
-* Play a combat card: Combat cards are played in the current combat row in the same column as the creatures they correspond to. Combat cards depicting eliminated creatures cannot be played.
+* **Play a combat card**: Combat cards are played in the current combat row in the same column as the creatures they correspond to. Combat cards depicting eliminated creatures cannot be played.
 
 OR
 
-* Play a spectator card: Spectator cards are played in the current combat row on a creature of the player’s choice. Spectator cards cannot be played in the same column as an eliminated creature.
+* **Play a spectator card**: Spectator cards are played in the current combat row on a creature of the player’s choice. Spectator cards cannot be played in the same column as an eliminated creature.
 
 OR
 
-* Play a referee card: After playing a referee card, follow the instructions on it.
+* **Play a referee card**: After playing a referee card, follow the instructions on it.
 
 OR
 
-* Pass: To pass, you must show your hand to the other players to prove that you have no playable cards.
+* **Pass**: To pass, you must show your hand to the other players to prove that you have no playable cards.
 
 > _**Note**: Remember that you cannot play a card in the same turn that you make your secret bet._
 
@@ -146,13 +146,15 @@ OR
 
 When you play a combat card, place it in the current combat row in the same column as the creature depicted on the card. You may not play combat cards depicting eliminated creatures. If there is already a card in that position, cover it up completely with the new card—the old card is overridden and players may not look at it while it is covered by another card.
 
-> _**Note**: Players can only play combat and spectator cards on creatures that have not yet been eliminated. Additionally, when you play a combat card on a creature, if you are that creature’s backer, you may immediately use the creature’s special power._
+> _**Note**: Players can only play combat and spectator cards on creatures that have not yet been eliminated._
+
+Additionally, when you play a combat card on a creature, **if you are that creature’s backer**, you may immediately use the creature’s special power.
 
 The creature powers are described in detail later on, but there are several rules that apply to all of them:
 
 * The creatures’ special powers break the rules. Any time a special power conflicts with a rule, the special power takes precedence.
 * A creature’s special power can only be used by its backer. No other player has access to it.
-* A creature’s backer can only activate its special power by playing a combat card from his hand. Spectator cards and combat cards moved around by other special powers do not activate a creature’s special power.
+* A creature’s backer can only activate its special power by playing a **combat card from his hand**. Spectator cards and combat cards moved around by other special powers do not activate a creature’s special power.
 
 ### Playing a Spectator Card
 
@@ -162,7 +164,7 @@ When you play a spectator card, place it in the current combat row in the same c
 
 ### Playing a Referee Card
 
-When you play a referee card, follow the directions on the card and then place it in the discard pile. There are two kinds of referee cards: the two Prefects, and the Magister. When you play the Magister card, choose a surviving creature. Any players who have made secret bets on that creature must immediately reveal their secret bets. This may result in the sudden change of the creature’s backer. (Remember, revealed secret bets are worth 5 gold.) When you play a Prefect card, you may pick up any visible combat card and put it in your hand. This includes any combat card that is on top of any pile in the current combat row or any combat row from a previous round.
+When you play a referee card, follow the directions on the card and then place it in the discard pile. There are two kinds of referee cards: the two Prefects, and the Magister. When you play the Magister card, choose a surviving creature. Any players who have made secret bets on that creature must *immediately* reveal their secret bets. This may result in the sudden change of the creature’s backer. (Remember, revealed secret bets are worth 5 gold.) When you play a Prefect card, you may pick up any visible combat card and put it in your hand. This includes any combat card that is on top of any pile in the current combat row or any combat row from a previous round.
 
 ### Passing
 
@@ -176,15 +178,15 @@ During this phase, you may first discard up to 3 combat cards depicting creature
 
 As the last thing you do in your turn, check to see if a creature is eliminated. A creature is eliminated if it has the single lowest combat value in that combat row and all remaining creatures have a combat or spectator card played on them in the current combat row. If a creature is eliminated, this ends the current round.
 
-# GAME END
+# Game End
 
 The game ends either at the end of the 5th round of play or the moment that the last card is drawn from the draw deck. All players immediately reveal their secret bets and calculate the total value of the bets they placed on any creatures that have not been eliminated. The player whose bets are worth the most gold is the winner.If there is a tie for the most gold, then the winner is the tied player who took the most recent turn.
 
-# DEAL MAKING
+# Deal Making
 
 Players are free to make deals with the other players, but these aren’t binding. In addition, a player cannot show any of his cards to another player unless forced to by the rules, such as when discarding in phase 3 or through the use of a creature’s special power.
 
-# CREATURE POWERS
+# Creature Powers
 
 ## Amazon (Scouting)
 When you activate the Amazon’s special power, you may choose to draw 3 cards (no more, no less) from the draw deck and add them to your hand. If you draw the last card in the draw deck by activating this power, the game immediately ends.
