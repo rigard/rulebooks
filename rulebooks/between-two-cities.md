@@ -1,11 +1,17 @@
 ---
-title: Between two Cities
-source: Summary
+title: Between Two Cities
+source: Summarised Rules
 information:
   player-count: 3-7 (with variations for 1-2)
-  play-time: 30 minutes
+  play-time: 25 minutes
+  ages: 8+
 tags:
-  - stub
+  - summary
+  - refresher
+  - card-drafting
+  - partnerships
+  - set-collection
+  - tile-placement
 ---
 
 # Summary
@@ -14,11 +20,17 @@ Using 2 tiles on each round, build 2 cities - 1 with the person on your left and
 
 # Contents
 
-..Stub
+* 108 Building Tiles
+* 24 Duplex Tiles
+* 14 City Tokens
+* 1 Scoreboard
+* 1 Rulebook
+* 7 Reference Cards
+* 15 Seating Randomiser Cards
 
 # Game setup
 
-* Pick a seat randomizer card and follow its instructions clockwise
+* Pick a seat randomiser card and follow its instructions clockwise
 * Place scorecard in the middle
 * Place 1 city token on left of each player, with matching token by scorecard
 * Next to scorecard place duplex cards and box with city tiles, all face down
