@@ -1,13 +1,12 @@
 ---
 title: Snow Tails
-source: Summarised Rules
+source: http://www.renegadegamestudios.com/snow-tails
 information:
   player-count: 2-5
   play-time: 45-60 minutes
   ages: 10+
 tags:
   - summary
-  - refresher
   - hand-management
   - modular-board
   - player-elimination
