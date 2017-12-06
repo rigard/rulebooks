@@ -28,10 +28,12 @@ Using 2 tiles on each round, build 2 cities - 1 with the person on your left and
 
 # Game setup
 
-* Pick a seat randomiser card and follow its instructions clockwise
-* Place scorecard in the middle
-* Place 1 city token on left of each player, with matching token by scorecard
-* Next to scorecard place duplex cards and box with city tiles, all face down
+* Board in middle
+* Each player gets den, crew marker, score token, and 30 cards of same colour, 1 value 5 doubloon, 5 value 1 doubloons
+* Score track to side with player tokens and remaining doubloons form bank
+* Booty tokens in bag, then draw 1 booty token per player for each day on the game board
+* Youngest player takes 9 cards from shuffled character cards and other players take the same cards into hand
+
 
 # Game Overview
 
