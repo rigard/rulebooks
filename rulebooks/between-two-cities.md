@@ -1,13 +1,12 @@
 ---
 title: Between Two Cities
-source: Summarised Rules
+source: https://stonemaiergames.com/games/between-two-cities/rules-print-play/
 information:
   player-count: 3-7 (with variations for 1-2)
   play-time: 25 minutes
   ages: 8+
 tags:
   - summary
-  - refresher
   - card-drafting
   - partnerships
   - set-collection
