@@ -37,11 +37,14 @@ Using 2 tiles on each round, build 2 cities - 1 with the person on your left and
 
 # Game Overview
 
-* Consists of 3 rounds
-* 2 tiles are selected per turn, flipped simultaneously by all players
-* Build 4x4 city, no deviation allowed
+* 3 Campaigns, each with 6 days of looting, each from sunrise to night phase, with 7th day totalling riches
+* During 6 days, character cards are played, and on 7th day, riches are totalled
 
-## Round 1
+# Gameplay
+
+## Campaign
+
+### Sunrise
 
 * Draw 7 city tiles, secretly choose 2, place remainder under city token on left
 * Simultaneous tile reveal
