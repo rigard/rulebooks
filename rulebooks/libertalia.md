@@ -34,7 +34,6 @@ Using 2 tiles on each round, build 2 cities - 1 with the person on your left and
 * Booty tokens in bag, then draw 1 booty token per player for each day on the game board
 * Youngest player takes 9 cards from shuffled character cards and other players take the same cards into hand
 
-
 # Game Overview
 
 * 3 Campaigns, each with 6 days of looting, each from sunrise to night phase, with 7th day totalling riches
@@ -46,11 +45,15 @@ Using 2 tiles on each round, build 2 cities - 1 with the person on your left and
 
 ### Sunrise
 
-* Draw 7 city tiles, secretly choose 2, place remainder under city token on left
-* Simultaneous tile reveal
-* Discuss and place 1 tile in left city, 1 in right, ensuring they are adjacent to another tile
-* While tiles exist under city token on right, repeat previous steps until 1 tile left
-* Discard last tile
+* Choose character card, reveal simultaneously and place on gameboard in increasing order of rank with tie breakers in effect
+
+### Day
+
+* Resolve special actions in increasing order
+
+### Dusk
+
+* 
 
 ## Round 2
 
