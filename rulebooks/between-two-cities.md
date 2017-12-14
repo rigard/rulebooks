@@ -74,7 +74,3 @@ Using 2 tiles on each round, build 2 cities - 1 with the person on your left and
 **Parks:** Increase score for larger adjacent groups (can have multiple groups)
 
 **Houses:** Score according to diversity across city (different types of other tiles)
-
-# Notes
-
-* Quadropolis
